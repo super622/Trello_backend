@@ -1,0 +1,7 @@
+Flask
+Flask-cors
+Flask-GraphQL
+boto3
+sqlalchemy
+graphene
+graphene-sqlalchemy
